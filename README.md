@@ -1,4 +1,6 @@
 # 20-03-24 React Routes CW
+#### Looks great! Met all the base requirements, good comments and clean styling. BUT looks like your last push was at 2pm with no attempt at the challenge. If you finish early take time to work on the challenge and show that work by pushing consistently(even if things are commented out)
+#### Score : 4/5
 Set Up
 - Create a new react app called `cw-app`
 - Create a class based component called `AppContainer` with the text `React Routes CW`
